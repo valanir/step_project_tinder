@@ -1,0 +1,53 @@
+create table public.users
+(
+    id       serial
+        primary key,
+    login    text not null,
+    password text not null,
+    nickname text not null
+        unique,
+    photo    text
+);
+
+
+create table public.cookies
+(
+    id    integer
+        constraint cookies_users_id_fk
+            references public.users,
+    value text not null
+        primary key,
+    name  text
+);
+
+
+
+create table public.likes
+(
+    id_from integer not null
+        constraint likes_users_id_fk
+            references public.users,
+    id_to   integer not null
+        constraint likes_users_id_fk_2
+            references public.users,
+    constraint likes_pk
+        primary key (id_from, id_to)
+);
+
+;
+
+create table public.messages
+(
+    id_from integer not null
+        constraint messages_users_id_fk
+            references public.users,
+    id_to   integer not null
+        constraint messages_users_id_fk_2
+            references public.users,
+    message text,
+    time    timestamp default now(),
+    id      serial
+        primary key
+);
+
+

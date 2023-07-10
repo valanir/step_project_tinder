@@ -1,0 +1,75 @@
+05/01/2023 20:59 [ERROR] Unable to establish connection: org.postgresql.util.PSQLException: �����: ������������ "postgres" �� ������ �������� ����������� (�� ������)
+05/01/2023 20:59 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 20:59 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 20:59 [DEBUG] Received likes records of user ID: 11
+05/01/2023 20:59 [DEBUG] User profile ID: 2 was downloaded from DB
+05/01/2023 20:59 [DEBUG] User profile ID: 3 was downloaded from DB
+05/01/2023 20:59 [DEBUG] User profile ID: 5 was downloaded from DB
+05/01/2023 20:59 [ERROR] Unable to establish connection: org.postgresql.util.PSQLException: �����: ������������ "postgres" �� ������ �������� ����������� (�� ������)
+05/01/2023 20:59 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 20:59 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 20:59 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 20:59 [DEBUG] Profile ID: 1 was downloaded from DB
+05/01/2023 20:59 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 20:59 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 20:59 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 20:59 [DEBUG] Profile ID: 2 was downloaded from DB
+05/01/2023 20:59 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 20:59 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 20:59 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 20:59 [DEBUG] Profile ID: 3 was downloaded from DB
+05/01/2023 20:59 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 20:59 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 21:00 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 21:00 [DEBUG] Profile ID: 4 was downloaded from DB
+05/01/2023 21:00 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 21:00 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 21:00 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 21:00 [DEBUG] Profile ID: 5 was downloaded from DB
+05/01/2023 21:00 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 21:00 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 21:00 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 21:00 [DEBUG] Profile ID: 6 was downloaded from DB
+05/01/2023 21:00 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 21:00 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 21:00 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 21:00 [DEBUG] Profile ID: 7 was downloaded from DB
+05/01/2023 21:00 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 21:00 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 21:00 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 21:00 [DEBUG] Profile ID: 8 was downloaded from DB
+05/01/2023 21:00 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 21:00 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 21:00 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 21:00 [DEBUG] Profile ID: 9 was downloaded from DB
+05/01/2023 21:00 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 21:00 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 21:00 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 21:00 [DEBUG] Profile ID: 10 was downloaded from DB
+05/01/2023 21:00 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 21:00 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 21:00 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 21:00 [DEBUG] Profile ID: 12 was downloaded from DB
+05/01/2023 21:00 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 21:00 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 21:00 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 21:00 [DEBUG] Profile ID: 13 was downloaded from DB
+05/01/2023 21:00 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 21:00 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 21:00 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 21:00 [DEBUG] Profile ID: 1 was downloaded from DB
+05/01/2023 21:00 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 21:00 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 21:00 [DEBUG] Received likes records of user ID: 11
+05/01/2023 21:00 [DEBUG] User profile ID: 2 was downloaded from DB
+05/01/2023 21:00 [DEBUG] User profile ID: 3 was downloaded from DB
+05/01/2023 21:00 [DEBUG] User profile ID: 5 was downloaded from DB
+05/01/2023 21:00 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 21:00 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 21:00 [DEBUG] 13 user IDs was downloaded from DB
+05/01/2023 21:00 [DEBUG] Profile ID: 2 was downloaded from DB
+05/01/2023 21:57 [ERROR] Unable to establish connection: org.postgresql.util.PSQLException: �����: ������������ "postgres" �� ������ �������� ����������� (�� ������)
+05/01/2023 21:57 [DEBUG] Received user ID: 11 by cookie 755deafd-ee9c-471e-8686-9a54d67ddca2
+05/01/2023 21:57 [DEBUG] Profile ID: 13 was downloaded from DB
+05/01/2023 21:58 [DEBUG] User profile ID: 11 was downloaded from DB
+05/01/2023 21:58 [DEBUG] Received chat between 11 and 13 from DB
